@@ -1,6 +1,6 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "aa" = (
-/obj/structure/furnace,
+/obj/structure/blacksmith/furnace,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 1
 	},
@@ -350,11 +350,11 @@
 /area/f13/wasteland)
 "dj" = (
 /obj/structure/shelf_wood,
-/obj/item/storage/bag/tribe_quiver/light{
+/obj/item/storage/bag/tribe_quiver/bone{
 	pixel_y = 5
 	},
 /obj/structure/shelf_wood,
-/obj/item/storage/bag/tribe_quiver/light{
+/obj/item/storage/bag/tribe_quiver/bone{
 	pixel_y = -6
 	},
 /turf/open/indestructible/ground/inside/mountain,
@@ -2091,7 +2091,6 @@
 /turf/open/indestructible/ground/outside/savannah,
 /area/f13/wasteland)
 "xl" = (
-/obj/effect/decal/cleanable/semen,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 8
 	},
@@ -3903,7 +3902,7 @@
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/wasteland)
 "OO" = (
-/obj/structure/anvil/obtainable/table,
+/obj/structure/blacksmith/anvil/obtainable/table,
 /obj/item/twohanded/sledgehammer/simple,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 9
